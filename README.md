@@ -1,7 +1,9 @@
 ### Olá, me chamo João Victor 👋
 
+-  Desenvolvedor FullStack 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
+- 
  <div>
  <a href="https://github.com/DeSantana">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeSantana&show_icons=true&theme=dark"/>
